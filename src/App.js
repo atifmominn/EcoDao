@@ -137,6 +137,7 @@ function Mint() {
             className="nostyle"
             contractAddress={contractAddress}
             contractAbi={contractAbi}
+            btnTitle="Mint"
             // Call the name of your smart contract function
             action={(contract) => contract.call("mint")}
           >
