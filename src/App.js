@@ -129,7 +129,7 @@ function Mint() {
   return(
     <>
       <div className="flex w-5/6 h-80 mt-16 mx-auto rounded-3xl gap-8 flex-wrap justify-center">
-        <div className="w-full h-auto bg-jet rounded-3xl sm:w-10/12 flex flex-col justify-center gap-11 items-center bg-[url('/Users/atifmomin/Downloads/ecoDAO/EcoDAO/ecodao/public/ocean.jpeg')]">
+        <div className="w-full h-auto bg-jet rounded-3xl sm:w-10/12 flex flex-col justify-center gap-11 items-center bg-[url('/Users/atifmomin/Downloads/EcoDao-main/public/ocean.jpeg')]">
           <div className="text-white text-6xl font-bold">ECO Token</div>
           <div className="text-xl">Fungible governance token for EcoDAO</div>
           <button className="text-white text-3xl w-[200px] h-[50px] bg-black/50 hover:bg-sky-400 duration-300 rounded-xl font-semibold">
