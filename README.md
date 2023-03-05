@@ -1,3 +1,20 @@
+# EcoDAO
+
+EcoDAO is a Decentralized Autonomous Organization committed to combatting climate change through ESG-focused R&D, grants, investing, lobbying, and community events.
+
+This project was created for Hack the Future, a sustainability-focused hackathon. This is also unaudited and unoptimized - not mainnet ready.
+
+# Key Features
+
+1. DAO treasury
+2. Egalitarian off-chain voting (1 vote per wallet)
+3. Voting Settings: 10-block voting delay, 1 week voting period, and 51% quorum
+4. Carbon-negative blockchain (Polygon Mumbai Testnet)
+
+# Voting
+
+## [Snapshot](https://demo.snapshot.org/#/ecosus.eth)
+
 ## Getting Started
 
 Create a project using this example:
